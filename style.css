@@ -1,0 +1,32 @@
+@media only screen and (max-width: 1335px){
+				
+
+#texto{
+				background-color: rgb(253,251,239);
+				font-size: 1vh;
+				width: 40vh;
+				padding: 5%;
+				border-radius: 10%;
+				box-shadow: 1px 2px 20px;
+}
+#texto2{
+    font-family: 'Send Flowers', cursive;
+				font-size: 1vh;
+}
+#titulo{
+      font-family: 'Send Flowers', cursive;
+					font-size: 3vh;					
+}
+#rosa{
+				height: 30vh;
+}
+#carta{
+     margin-top: 1vh;
+				height:45vh;
+}
+#baixo{
+				font-family: 'Send Flowers', cursive;
+				font-size: 5vh;
+}
+
+}
